@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\SelfStudyJava\.metadata\.plugins\org.eclipse.jdt.core
-130601786.index
-3413725848.index
