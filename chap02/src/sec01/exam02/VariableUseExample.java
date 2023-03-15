@@ -6,10 +6,10 @@ public class VariableUseExample {
 		// TODO Auto-generated method stub
 		int hour = 3;
 		int minute = 5;
-		System.out.println(hour + "Ω√∞£" + minute + "∫–");
+		System.out.println(hour + "Ïãú " + minute + "Î∂Ñ");
 		
 		int totalMinute = (hour*60) + minute;
-		System.out.println("√— " + totalMinute + "∫–");
+		System.out.println("Ï¥ù " + totalMinute + "Î∂Ñ");
 	}
 
 }
